@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    margin: 0 auto;
+}
+
+.blue-box-container {
+    display: flex;
+    height: 1000px;
+    width: 1000px;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.blue-boxes {
+    background-color: rgb(107, 186, 255);
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.welcome-header {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
